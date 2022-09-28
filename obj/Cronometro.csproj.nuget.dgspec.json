@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FelipeFerreiraMenegu\\Desktop\\FelipeHD\\baltar.io\\Cronometro\\Cronometro.csproj": {}
+    "E:\\ArquivosPC\\Felipe\\Aulas-Cursos\\dev\\baltaio\\Cronometro\\Cronometro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FelipeFerreiraMenegu\\Desktop\\FelipeHD\\baltar.io\\Cronometro\\Cronometro.csproj": {
+    "E:\\ArquivosPC\\Felipe\\Aulas-Cursos\\dev\\baltaio\\Cronometro\\Cronometro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FelipeFerreiraMenegu\\Desktop\\FelipeHD\\baltar.io\\Cronometro\\Cronometro.csproj",
+        "projectUniqueName": "E:\\ArquivosPC\\Felipe\\Aulas-Cursos\\dev\\baltaio\\Cronometro\\Cronometro.csproj",
         "projectName": "Cronometro",
-        "projectPath": "C:\\Users\\FelipeFerreiraMenegu\\Desktop\\FelipeHD\\baltar.io\\Cronometro\\Cronometro.csproj",
+        "projectPath": "E:\\ArquivosPC\\Felipe\\Aulas-Cursos\\dev\\baltaio\\Cronometro\\Cronometro.csproj",
         "packagesPath": "C:\\Users\\FelipeFerreiraMenegu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FelipeFerreiraMenegu\\Desktop\\FelipeHD\\baltar.io\\Cronometro\\obj\\",
+        "outputPath": "E:\\ArquivosPC\\Felipe\\Aulas-Cursos\\dev\\baltaio\\Cronometro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FelipeFerreiraMenegu\\AppData\\Roaming\\NuGet\\NuGet.Config",
